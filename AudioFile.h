@@ -37,6 +37,7 @@
 #define NOMINMAX
 #endif
 
+#include <stdint.h>
 #include <iostream>
 #include <vector>
 #include <cassert>
